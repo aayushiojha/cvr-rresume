@@ -31,6 +31,31 @@ h3{
     font-family: 'Montserrat Alternates', sans-serif;
 }
 
+
+.top{
+    background-color: #E4F9F5 ;
+    padding-top:100px;
+    position:relative;
+
+}
+
+
+.top-cloud{
+    position: absolute;
+    top:40px;
+    right: 300px;
+}
+
+.Bottom-cloud{
+    position: absolute;
+    bottom:300px;
+    left: 250px;
+}
+
+
+.pro{
+    text-decoration: underline;
+}
 .webdesign{
     width: 25%;
     float:left;
@@ -64,15 +89,8 @@ hr{
 };
   
 
-.top{
-    background-color: #E4F9F5;
-    padding-top:100px;
-    position:relative;
 
-}
-.pro{
-    text-decoration: underline;
-}
+
 
 .intro{
     width: 30%;
@@ -93,17 +111,6 @@ hr{
     padding:50px 0 20px
 }
 
-.top-cloud{
-    position: absolute;
-    top:40px;
-    right: 300px;
-}
-
-.Bottom-cloud{
-    position: absolute;
-    bottom:300px;
-    left: 250px;
-}
 
 
 
